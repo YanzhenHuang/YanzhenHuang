@@ -2,7 +2,7 @@ Hi 👋 My name is Yanzhen Huang 黃彥禎
 ==================================
 
 🌍 I'm based in Macao 🇲🇴 China 🇨🇳  
-📮 You can contact me at [huangyanzhen0108@163.com](mailto:huangyanzhen0108@163.com)  
+📮 You can contact me at [yanzhenhuangwork@gmail.com](mailto:yanzhenhuangwork@gmail.com)  
 🧠 I'm learning Natural Language Processing  
 ⭐️ Hobbies: Designing, Music, Coding, and much more！ 
 
