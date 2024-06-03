@@ -6,6 +6,8 @@ Hi 👋 My name is Yanzhen Huang 黃彥禎
 🧠 I'm learning Natural Language Processing  
 ⭐️ Hobbies: Designing, Music, Coding, and much more！ 
 
+[![committers.top badge](https://user-badge.committers.top/macau/USERNAME.svg)](https://user-badge.committers.top/macau/USERNAME)
+
 ### Skills
 
 
