@@ -1,12 +1,15 @@
 Hi 👋 My name is Yanzhen Huang 黃彥禎
 ==================================
 
-🌍 I'm based in Macao 🇲🇴 China 🇨🇳  
+🌍 I'm based in Macao 🇲🇴 China 🇨🇳
+🏫 I'm a Year-4 student of University of Macau
 📮 You can contact me at [yanzhenhuangwork@gmail.com](mailto:yanzhenhuangwork@gmail.com)  
 🧠 I'm learning Machine Learning & Pattern Recognition.  
 ⭐️ Hobbies: Designing, Music, Coding, and much more！ 
 
 [![committers.top badge](https://user-badge.committers.top/macau/YanzhenHuang.svg)](https://user-badge.committers.top/macau/YanzhenHuang)
+
+![YanzhenHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanzhenHuang&show_icons=true&theme=radical)
 
 ### Skills
 
@@ -20,13 +23,4 @@ Hi 👋 My name is Yanzhen Huang 黃彥禎
 
 <p align="left"> <a href="https://www.github.com/YanzhenHuang" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/YanzhenHuang"><img src="https://github-readme-stats.vercel.app/api?username=YanzhenHuang&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="YanzhenHuang's GitHub stats" /></a>
-
-<a href="http://www.github.com/YanzhenHuang"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YanzhenHuang&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/YanzhenHuang" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanzhenHuang&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
