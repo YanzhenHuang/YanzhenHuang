@@ -2,9 +2,13 @@ Hi 👋 My name is Yanzhen Huang 黃彥禎
 ==================================
 
 🌍 I'm based in Macao 🇲🇴 China 🇨🇳
+
 🏫 I'm a Year-4 student of University of Macau
+
 📮 You can contact me at [yanzhenhuangwork@gmail.com](mailto:yanzhenhuangwork@gmail.com)  
+
 🧠 I'm learning Machine Learning & Pattern Recognition.  
+
 ⭐️ Hobbies: Designing, Music, Coding, and much more！ 
 
 [![committers.top badge](https://user-badge.committers.top/macau/YanzhenHuang.svg)](https://user-badge.committers.top/macau/YanzhenHuang)
