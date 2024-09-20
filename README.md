@@ -13,7 +13,7 @@ Hi 👋 My name is Yanzhen Huang 黃彥禎
 
 [![committers.top badge](https://user-badge.committers.top/macau/YanzhenHuang.svg)](https://user-badge.committers.top/macau/YanzhenHuang)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YanzhenHuang)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YanzhenHuang&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 ![YanzhenHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanzhenHuang&show_icons=true&theme=radical)
 
 ## Socials
