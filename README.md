@@ -34,15 +34,10 @@ Goat Village Foundation
 ## Skills
 
 ### 💯 Have Rich Experience In
-**Version Control, Build Tools and Platforms**
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,github,gitlab,unity,anaconda,dotnet)](https://skillicons.dev)
 
-**Languages and Scripts**
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,matlab,cs,html,css,php,mysql,md,latex,bash)](https://skillicons.dev)
-
-**IDEs and Shells**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,obsidian,powershell)](https://skillicons.dev)
 
