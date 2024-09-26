@@ -25,7 +25,6 @@ Hi 👋 My name is Yanzhen Huang 黃彥禎
 
 ![YanzhenHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanzhenHuang&show_icons=true&theme=radical)
 
-![snake animation](https://github.com/YanzhenHuang/YanzhenHuang/blob/output/github-contribution-grid-snake2.svg)
 ## Socials
 Goat Village Foundation 
 
