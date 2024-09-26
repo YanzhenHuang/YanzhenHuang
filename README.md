@@ -41,6 +41,7 @@ Goat Village Foundation
 **Languages and Scripts**
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,matlab,cs,html,css,php,mysql,md,latex,bash)](https://skillicons.dev)
+
 **IDEs and Shells**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,obsidian,powershell)](https://skillicons.dev)
