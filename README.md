@@ -27,9 +27,9 @@ Goat Village Foundation
 
 <img src="assets/Goat_Village_Dark.png" alt="drawing" style="width:200px;"/><img src="assets/Goat_Village_Light.png" alt="drawing" style="width:200px;"/>
 
-## Skills
+# Skills
 
-### 💯 Have Rich Experience In
+## 💯 Have Rich Experience In
 **Version Control, Build Tools and Platforms**
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,github,gitlab,unity,anaconda,dotnet)](https://skillicons.dev)
@@ -42,7 +42,7 @@ Goat Village Foundation
 
 [![My Skills](https://skillicons.dev/icons?i=md,latex,bash)](https://skillicons.dev)
 
-### 🤔 Is Familiar With
+## 🤔 Is Familiar With
 **Platforms**
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,npm)](https://skillicons.dev)
