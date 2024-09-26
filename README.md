@@ -22,6 +22,7 @@ Hi 👋 My name is Yanzhen Huang 黃彥禎
 [![trophy](https://github-profile-trophy.vercel.app/?username=YanzhenHuang&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 ![YanzhenHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanzhenHuang&show_icons=true&theme=radical)
 
+![snake animation](https://github.com/YanzhenHuang/YanzhenHuang/blob/output/github-contribution-grid-snake2.svg)
 ## Socials
 Goat Village Foundation 
 
