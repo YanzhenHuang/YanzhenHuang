@@ -28,9 +28,9 @@ Goat Village Foundation
 
 <img src="assets/Goat_Village_Dark.png" alt="drawing" style="width:200px;"/><img src="assets/Goat_Village_Light.png" alt="drawing" style="width:200px;"/>
 
-# Skills
+## Skills
 
-## 💯 Have Rich Experience In
+### 💯 Have Rich Experience In
 **Version Control, Build Tools and Platforms**
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,github,gitlab,unity,anaconda,dotnet)](https://skillicons.dev)
@@ -43,41 +43,13 @@ Goat Village Foundation
 
 [![My Skills](https://skillicons.dev/icons?i=md,latex,bash)](https://skillicons.dev)
 
-## 🤔 Is Familiar With
-**Platforms**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,npm)](https://skillicons.dev)
-
-**Application Frameworks**
-
-[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,django,redux)](https://skillicons.dev)
-
-**Machine Learning and Data Science**
-
-[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch)](https://skillicons.dev)
-
-**Languages**
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)
-
-**Operating Systems**
-
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,apple,windows)](https://skillicons.dev)
-
-## 📚 Is Learning
-**Web Development Frameworks**
-
-[![My Skills](https://skillicons.dev/icons?i=vue,vite,sass,webpack)](https://skillicons.dev)
-
-**Mobile Development Stack**
-
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio)](https://skillicons.dev)
-
-## ❤️ Love To Use
 **IDEs and Shells**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,obsidian,powershell)](https://skillicons.dev)
 
-**Design**
+### 🤔 Is Familiar With
 
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,react,next,tailwind,django,redux,opencv,pytorch,c,cpp,java,linux,ubuntu,apple,windows)](https://skillicons.dev)
+### 📚 Is Learning
+
+[![My Skills](https://skillicons.dev/icons?i=vue,vite,sass,webpack,kotlin,androidstudio)](https://skillicons.dev)
