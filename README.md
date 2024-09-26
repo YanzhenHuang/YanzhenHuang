@@ -34,7 +34,7 @@ Goat Village Foundation
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,github,gitlab,unity,anaconda,dotnet)](https://skillicons.dev)
 
-**Languages & Scripts**
+**Languages**
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,matlab,cs,html,css,php,mysql)](https://skillicons.dev)
 
