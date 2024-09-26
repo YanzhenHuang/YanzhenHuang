@@ -17,9 +17,12 @@ Hi 👋 My name is Yanzhen Huang 黃彥禎
 
 [![committers.top badge](https://user-badge.committers.top/macau/YanzhenHuang.svg)](https://user-badge.committers.top/macau/YanzhenHuang)
 
-**My GitHub Activities**
+**My GitHub Trophies**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YanzhenHuang&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+**My GitHub Activities**
+
 ![YanzhenHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanzhenHuang&show_icons=true&theme=radical)
 
 ![snake animation](https://github.com/YanzhenHuang/YanzhenHuang/blob/output/github-contribution-grid-snake2.svg)
@@ -35,14 +38,9 @@ Goat Village Foundation
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,github,gitlab,unity,anaconda,dotnet)](https://skillicons.dev)
 
-**Languages**
+**Languages and Scripts**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,matlab,cs,html,css,php,mysql)](https://skillicons.dev)
-
-**Scripts**
-
-[![My Skills](https://skillicons.dev/icons?i=md,latex,bash)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,matlab,cs,html,css,php,mysql,md,latex,bash)](https://skillicons.dev)
 **IDEs and Shells**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,obsidian,powershell)](https://skillicons.dev)
