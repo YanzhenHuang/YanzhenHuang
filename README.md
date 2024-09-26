@@ -29,7 +29,7 @@ Goat Village Foundation
 
 ## Skills
 
-### Have Rich Experience In
+### 💯 Have Rich Experience In
 
 **Version Control, Build Tools and Platforms**
 
@@ -43,7 +43,7 @@ Goat Village Foundation
 
 [![My Skills](https://skillicons.dev/icons?i=md,latex,bash)](https://skillicons.dev)
 
-### Is Familiar With
+### 🤔 Is Familiar With
 
 **Platforms**
 
@@ -65,7 +65,7 @@ Goat Village Foundation
 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,apple,windows)](https://skillicons.dev)
 
-## Is Learning
+## 📚 Is Learning
 
 **Web Development Frameworks**
 
@@ -75,7 +75,7 @@ Goat Village Foundation
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio)](https://skillicons.dev)
 
-## Love To Use
+## ❤️ Love To Use
 
 **IDEs and Shells**
 
