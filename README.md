@@ -34,12 +34,7 @@ Goat Village Foundation
 
 ### 💯 Have Rich Experience In
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,github,gitlab,unity,anaconda,dotnet)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,matlab,cs,html,css,php,mysql,md,latex,bash)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,obsidian,powershell)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=git,docker,github,gitlab,unity,anaconda,dotnet,js,ts,python,matlab,cs,html,css,php,mysql,md,latex,bash,vscode,pycharm,obsidian,powershell)](https://skillicons.dev)
 ### 🤔 Is Familiar With
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,react,next,tailwind,django,redux,opencv,pytorch,c,cpp,java,linux,ubuntu,apple,windows)](https://skillicons.dev)
