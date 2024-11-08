@@ -1,15 +1,21 @@
 Hi 👋 My name is Yanzhen Huang 黃彥禎
 ==================================
-
-🌍 I'm based in Macao 🇲🇴 China 🇨🇳
-
-🏫 I'm a Year-4 student at the University of Macau
-
-📮 You can contact me at [yanzhenhuangwork@gmail.com](mailto:yanzhenhuangwork@gmail.com)  
-
-🧠 I'm learning Machine Learning & Pattern Recognition.  
-
-⭐️ Hobbies: Designing, Music, Coding, and much more！ 
+```python
+>>> import yz
+"Hi!👋 My name is Yanzhen Huang 黄彦祯"
+>>> yz.name
+{"Family": "Huang", "Given": "Yanzhen"}
+>>> yz.locales
+{"Nationality": "🇨🇳", "Living Region": "🇲🇴"}
+>>> yz.edu
+{"Facility": "University of Macau", "Year": 4}
+>>> yz.email
+"yanzhenhuangwork@gmail.com"
+>>> yz.hobbies
+["Designing", "Music", "Coding"]
+>>> yz.learning
+["Machine Learning", "Pattern Recognition"]
+```
 
 ## My GitHub Status
 
