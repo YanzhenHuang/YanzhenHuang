@@ -13,6 +13,8 @@
 ["Designing", "Music", "Coding"]
 >>> yz.learning
 ["Machine Learning", "Pattern Recognition"]
+>>> yz.profile.idea
+{"From": "@Ziy1-Tan"}
 ```
 
 ## My GitHub Status
