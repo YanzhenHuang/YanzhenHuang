@@ -1,8 +1,6 @@
-Hi 👋 My name is Yanzhen Huang 黃彥禎
-==================================
 ```python
 >>> import yz
-"Hi!👋 My name is Yanzhen Huang 黄彦祯"
+"Hi!👋 My name is Yanzhen Huang 黄彦祯！"
 >>> yz.name
 {"Family": "Huang", "Given": "Yanzhen"}
 >>> yz.locales
