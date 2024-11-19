@@ -12,7 +12,9 @@
 >>> yz.hobbies
 ["Designing", "Music", "Coding"]
 >>> yz.learning
-["Machine Learning", "Pattern Recognition"]
+["Machine Learning", "Pattern Recognition", "Video Editing"]
+>>> yz.friends
+["@phoiex", "@AlexChen539", "@dc-hector", "@LouiseLrx844015", "@SpinningMai"]
 >>> yz.profile.idea
 {"From": "@Ziy1-Tan"}
 ```
