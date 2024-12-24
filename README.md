@@ -44,6 +44,7 @@ We are now constructing our memorial website: [https://www.goat-village-foundati
 
 Please stay tuned for any updates!
 
-![alt text](assets/Goat_Village_Website_Screenshot.png)
+![Goat Village Website Screenshot](assets/Goat_Village_Website_Screenshot.png)
+
 
 
