@@ -34,6 +34,6 @@
 [![committers.top badge](https://user-badge.committers.top/macau/YanzhenHuang.svg)](https://user-badge.committers.top/macau/YanzhenHuang)
 
 ## Socials
-Goat Village Foundation. Please visit our memorial website: [goat-village-foundation.org](goat-village-foundation.org)
+Goat Village Foundation. Please visit our memorial website: [https://www.goat-village-foundation.org](https://www.goat-village-foundation.org)
 
 <img src="assets/Goat_Village_Dark.png" alt="drawing" style="width:200px;"/><img src="assets/Goat_Village_Light.png" alt="drawing" style="width:200px;"/>
