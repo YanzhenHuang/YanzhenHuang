@@ -18,7 +18,7 @@
 ["Designing", "Music", "Coding"]
 
 >>> yz.learning
-["Java", "SpringBoot", "Machine Learning", "Pattern Recognition", "Video Editing"]
+["Java & SpringBoot", "ML & Deep Learning", "Clang"]
 
 >>> yz.friends
 ["@phoiex", "@AlexChen539", "@dc-hector", "@LouiseLrx844015", "@SpinningMai"]
