@@ -36,9 +36,7 @@
 ## Socials
 Goat Village Foundation. 
 
-<img src="assets/Goat_Village_Dark.png" alt="drawing" style="width:200px;"/>
-
-<img src="assets/Goat_Village_Light.png" alt="drawing" style="width:200px;"/>
+<img src="assets/Goat_Village_Dark.png" alt="drawing" style="width:200px;"/> <img src="assets/Goat_Village_Light.png" alt="drawing" style="width:200px;"/>
 
 We are now constructing our memorial website: [https://www.goat-village-foundation.org](https://www.goat-village-foundation.org)
 
