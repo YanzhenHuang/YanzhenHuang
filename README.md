@@ -34,9 +34,10 @@
 
 ## Socials
 **My Blog Webpage**
-[https://www.huangyanzhen.dev](www.huangyanzhen.dev)
 
-**Goat Village Foundation. **
+[www.huangyanzhen.dev](https://www.huangyanzhen.dev)
+
+**Goat Village Foundation**
 
 <img src="assets/Goat_Village_Dark.png" alt="drawing" style="width:200px;"/> <img src="assets/Goat_Village_Light.png" alt="drawing" style="width:200px;"/>
 
