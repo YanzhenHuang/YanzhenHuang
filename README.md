@@ -1,6 +1,6 @@
 ```python
 >>> import yz
-"Hi!👋 My name is Yanzhen Huang 黄彦祯！"
+"Hi!👋 My name is Yanzhen Huang 黄彦祯！I love graphics design ✏️, music 🎧, and coding 💻!"
 
 >>> yz.name
 {"Family": "Huang", "Given": "Yanzhen"}
@@ -9,13 +9,13 @@
 {"Nationality": "🇨🇳", "Living Region": "🇲🇴"}
 
 >>> yz.edu
-{"Facility": "University of Macau", "Year": 4}
+[
+{"Level": "High School", "Facility": "No.1 Middle School of Zhongshan", "Year": "Graduated"},
+{"Level": "Undergraduate", "Facility": "University of Macau", "Year": 4}
+]
 
 >>> yz.email
 "yanzhenhuangwork@gmail.com"
-
->>> yz.hobbies
-["Designing", "Music", "Coding"]
 
 >>> yz.learning
 ["Java & SpringBoot", "ML & Deep Learning", "Clang"]
@@ -26,6 +26,7 @@
 >>> yz.profile.idea
 {"From": "@Ziy1-Tan"}
 ```
+
 ## My GitHub Status
 
 **My Ranking on "Most Active GitHub Users" in Macau**
@@ -39,6 +40,8 @@
 
 **Goat Village Foundation**
 
+<div>
 <img src="assets/Goat_Village_Dark.png" alt="drawing" style="width:200px;"/> <img src="assets/Goat_Village_Light.png" alt="drawing" style="width:200px;"/>
+</div>
 
 
