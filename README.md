@@ -15,19 +15,7 @@
 >>> yz.profile.idea
 {"From": "@Ziy1-Tan"}
 ```
-
-## My GitHub Status
-
-**My Ranking on "Most Active GitHub Users" in Macau**
-
 [![committers.top badge](https://user-badge.committers.top/macau/YanzhenHuang.svg)](https://user-badge.committers.top/macau/YanzhenHuang)
-
-## Socials
-**My Blog Webpage**
-
-[www.huangyanzhen.dev](https://www.huangyanzhen.dev)
-
-**Goat Village Foundation**
 
 <div>
 <img src="assets/Goat_Village_Dark.png" alt="drawing" style="width:200px;"/> <img src="assets/Goat_Village_Light.png" alt="drawing" style="width:200px;"/>
