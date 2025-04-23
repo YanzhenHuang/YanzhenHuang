@@ -18,7 +18,7 @@
 [![committers.top badge](https://user-badge.committers.top/macau/YanzhenHuang.svg)](https://user-badge.committers.top/macau/YanzhenHuang)
 
 <div>
-<img src="assets/Goat_Village_Dark.png" alt="drawing" style="width:200px;"/> <img src="assets/Goat_Village_Light.png" alt="drawing" style="width:200px;"/>
+<img src="assets/Goat_Village_Dark.png" alt="drawing" style="width:100px;"/> <img src="assets/Goat_Village_Light.png" alt="drawing" style="width:100px;"/>
 </div>
 
 
