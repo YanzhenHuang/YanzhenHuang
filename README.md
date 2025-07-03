@@ -6,7 +6,7 @@
 >>> yz.edu
 [
 {"Level": "High School", "Facility": "No.1 Middle School of Zhongshan", "Year": "Graduated"},
-{"Level": "Undergraduate", "Facility": "University of Macau", "Year": 4}
+{"Level": "Undergraduate", "Facility": "University of Macau", "Year": "Graduated"}
 ]
 >>> yz.learning
 ["Java & SpringBoot", "ML & Deep Learning", "Clang"]
