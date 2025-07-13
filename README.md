@@ -1,20 +1,20 @@
-```python
->>> import yz
-"Hi!👋 My name is Yanzhen Huang 黄彦祯！I love graphics design ✏️, music 🎧, and coding 💻!"
->>> yz.name
-{"Family": "Huang", "Given": "Yanzhen", "Email": "yanzhenhuangwork@gmail.com"}
->>> yz.edu
-[
-{"Level": "High School", "Facility": "No.1 Middle School of Zhongshan", "Year": "Graduated"},
-{"Level": "Undergraduate", "Facility": "University of Macau", "Year": "Graduated"}
-]
->>> yz.learning
-["Java & SpringBoot", "ML & Deep Learning", "Clang"]
->>> yz.friends
-["@phoiex", "@AlexChen539", "@dc-hector", "@LouiseLrx844015", "@SpinningMai"]
->>> yz.profile.idea
-{"From": "@Ziy1-Tan"}
+```json
+{
+  "brief": "Hi!👋 My name is Yanzhen Huang 黄彦祯！I love graphics design ✏️, music 🎧, and coding 💻!"
+  "name": {
+    "family": "Huang",
+    "given": "Yanzhen"
+  },
+  "email": "yanzhenhuangwork@gmail.com",
+  "edu": {
+    "high school": "No.1 Middle School of Zhongshan",
+    "undergraduate": "University of Macau"
+  },
+  "learning": ["Java & SpringBoot", "ML & Deep Learning", "Clang"],
+  "friends": ["@phoiex", "@AlexChen539", "@dc-hector", "@LouiseLrx844015", "@SpinningMai"],
+}
 ```
+
 [![committers.top badge](https://user-badge.committers.top/macau/YanzhenHuang.svg)](https://user-badge.committers.top/macau/YanzhenHuang)
 
 <div>
