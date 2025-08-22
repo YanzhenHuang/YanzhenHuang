@@ -8,7 +8,8 @@
   "email": "yanzhenhuangwork@gmail.com",
   "edu": {
     "high school": "No.1 Middle School of Zhongshan",
-    "undergraduate": "University of Macau"
+    "undergraduate": "University of Macau",
+    "postgraduate": "The Hong Kong University of Science and Technology"
   },
   "learning": ["Java & SpringBoot", "ML & Deep Learning", "Clang"],
   "friends": ["@phoiex", "@AlexChen539", "@dc-hector", "@LouiseLrx844015", "@SpinningMai"],
