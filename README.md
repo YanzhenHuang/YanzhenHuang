@@ -12,6 +12,7 @@
     "postgraduate": "The Hong Kong University of Science and Technology"
   },
   "learning": ["Java & SpringBoot", "ML & Deep Learning", "Clang"],
+  "games": ["Valorant", "CS2", "Minecraft"],
   "friends": ["@phoiex", "@AlexChen539", "@dc-hector", "@LouiseLrx844015", "@SpinningMai"],
 }
 ```
