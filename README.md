@@ -11,7 +11,7 @@
     "undergraduate": "University of Macau",
     "postgraduate": "The Hong Kong University of Science and Technology"
   },
-  "learning": ["Java & SpringBoot", "ML & Deep Learning", "Clang"],
+  "learning": ["Java & SpringBoot", "ML & Deep Learning", "Clang", "Cloud Computing"],
   "games": ["Valorant", "CS2", "Minecraft"],
   "friends": ["@phoiex", "@AlexChen539", "@dc-hector", "@LouiseLrx844015", "@SpinningMai"],
 }
